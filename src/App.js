@@ -154,6 +154,7 @@ function App(props) {
         networkId: NetworkId,
         selector: selector,
         gatewayId: "near-social",
+        bosElementStyleSrc: "/bootstrap.min.css",
       });
 
       const mutationId = window.sessionStorage.getItem("mutableweb:mutationId");
