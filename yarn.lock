@@ -8241,7 +8241,7 @@ mustache@^4.0.0:
 
 "mutable-web-engine@github:dapplets/mutable-web-engine":
   version "0.1.0"
-  resolved "https://codeload.github.com/dapplets/mutable-web-engine/tar.gz/c293b6c9a2b0f9d30eae74d5c2660c2f0d1eb03c"
+  resolved "https://codeload.github.com/dapplets/mutable-web-engine/tar.gz/80e35688042359510710c691f9d049e8efd9fe64"
   dependencies:
     "@ant-design/cssinjs" "^1.21.0"
     antd "^5.18.3"
